@@ -9,7 +9,7 @@ This repository contains:
 
 In an IDE, run `main.py`.
 
-To run in the program in a terminal:
+To run the program in a terminal:
 1) Navigate to directory containing `main.py`. 
 ```cd [path-to-directory]/main.py ```
 2) Run the command:
