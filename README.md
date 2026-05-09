@@ -14,3 +14,9 @@ To run the program in a terminal:
 ```cd [path-to-directory]/main.py ```
 2) Run the command:
 ```python main.py```
+
+---
+##Python Dependencies:
+- PIL library
+- pySerial
+- tkinter
