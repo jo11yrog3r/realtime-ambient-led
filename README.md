@@ -16,7 +16,7 @@ To run the program in a terminal:
 ```python main.py```
 
 ---
-## Python Dependencies:
+### Python Dependencies:
 - PIL library
 - pySerial
 - tkinter
